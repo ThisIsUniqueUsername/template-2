@@ -1,0 +1,9 @@
+runOnDraft: true
+addReviewers: true
+addAssignees: author
+
+numberOfReviewers: 0
+numberOfAssignees: 0
+
+reviewers:
+  - MatveevKirill
